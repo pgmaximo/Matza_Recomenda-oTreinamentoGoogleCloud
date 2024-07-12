@@ -11,11 +11,11 @@ from google.colab import userdata
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Configurando a chave API
+# Configurando a chave API (Chave está no secret key do Google Colab)
 api_key = api_key=userdata.get('api_key')
 genai.configure(api_key=api_key)
 
-# Definindo caminho da pasta com os PDFs
+# Definindo caminho da pasta com os PDFs (Caminho aponta para a minha pasta Drive que uniou com o Googe Colab)
 pasta_pdf = '/content/drive/MyDrive/PDFs para IA'
 
 
