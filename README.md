@@ -1,4 +1,4 @@
-# Matza Recomenda treinamento Google Cloud
+# Matza | Recomendação treinamento Google Cloud
 
 Desenvolvi um chatbot utilizando a API do Google Gemini e seus modelos de IA generativa e embedding. O objetivo do projeto é ajudar clientes a encontrar os melhores treinamentos oferecidos pela Matza sobre Google Cloud, baseando-se nas necessidades específicas apresentadas pelos usuários.
 
